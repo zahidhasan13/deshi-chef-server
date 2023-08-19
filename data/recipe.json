@@ -3,6 +3,7 @@
     "recipeID": "recipe1",
     "chefID": "chef1",
     "recipeName": "Biryani",
+    "recipeImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/%22Hyderabadi_Dum_Biryani%22.jpg/640px-%22Hyderabadi_Dum_Biryani%22.jpg",
     "ingredients": ["Rice", "Chicken", "Spices", "Onion", "Tomato"],
     "cookingMethod": "1. Marinate chicken with spices. 2. Cook rice separately. 3. Layer rice and chicken. 4. Cook on low heat.",
     "rating": 4.7
@@ -11,6 +12,7 @@
     "recipeID": "recipe2",
     "chefID": "chef1",
     "recipeName": "Kebabs",
+    "recipeImg": "https://www.thespruceeats.com/thmb/s5EDiU35oKiFTepY_8XtuSqwQa0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/traditional-shish-kebabs-335199-hero-01-f8046460cc3d4ffb99d17743465c7cd3.jpg",
     "ingredients": ["Minced Meat", "Spices", "Onion", "Herbs", "Yogurt"],
     "cookingMethod": "1. Mix minced meat with spices. 2. Shape into kebabs. 3. Grill or fry. 4. Serve with yogurt sauce.",
     "rating": 4.5
@@ -19,6 +21,7 @@
     "recipeID": "recipe3",
     "chefID": "chef1",
     "recipeName": "Chapati",
+    "recipeImg": "https://recipes.timesofindia.com/thumb/61203720.cms?width=1200&height=900",
     "ingredients": ["Whole Wheat Flour", "Water", "Salt"],
     "cookingMethod": "1. Mix flour, water, and salt. 2. Knead dough. 3. Roll out and cook on a skillet.",
     "rating": 4.2
@@ -27,6 +30,7 @@
     "recipeID": "recipe4",
     "chefID": "chef2",
     "recipeName": "Rice Pudding",
+    "recipeImg": "https://images.unsplash.com/photo-1515544645059-de313dd20a58?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=385&q=80",
     "ingredients": ["Rice", "Milk", "Sugar", "Cardamom", "Nuts"],
     "cookingMethod": "1. Cook rice in milk. 2. Add sugar and cardamom. 3. Garnish with nuts.",
     "rating": 4.8
@@ -35,6 +39,7 @@
     "recipeID": "recipe5",
     "chefID": "chef2",
     "recipeName": "Fish Curry",
+    "recipeImg": "https://images.unsplash.com/photo-1626508035297-0cd27c397d67?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
     "ingredients": ["Fish", "Spices", "Onion", "Tomato", "Mustard Oil"],
     "cookingMethod": "1. Fry fish. 2. Make curry with spices, onion, and tomato. 3. Add fried fish. 4. Simmer.",
     "rating": 4.6
@@ -43,6 +48,7 @@
     "recipeID": "recipe6",
     "chefID": "chef2",
     "recipeName": "Vegetable Bhaji",
+    "recipeImg": "https://cdn.copymethat.com/media/orig_vegetable_bhaji_20150313185846077466xswl6.jpg",
     "ingredients": ["Assorted Vegetables", "Spices", "Flour", "Oil", "Herbs"],
     "cookingMethod": "1. Chop and cook vegetables. 2. Make a spiced batter. 3. Dip vegetables and deep fry.",
     "rating": 4.3
@@ -51,6 +57,7 @@
     "recipeID": "recipe7",
     "chefID": "chef3",
     "recipeName": "Mango Lassi",
+    "recipeImg": "https://www.liveeatlearn.com/wp-content/uploads/2023/06/mango-lassi-recipe-vert.jpg",
     "ingredients": ["Mango", "Yogurt", "Sugar", "Milk", "Cardamom"],
     "cookingMethod": "1. Blend mango, yogurt, sugar, and milk. 2. Add cardamom. 3. Serve chilled.",
     "rating": 4.9
@@ -59,6 +66,7 @@
     "recipeID": "recipe8",
     "chefID": "chef3",
     "recipeName": "Chicken Korma",
+    "recipeImg": "https://recipe52.com/wp-content/uploads/2022/04/white-chicken-korma-2.jpg",
     "ingredients": ["Chicken", "Spices", "Onion", "Cashews", "Cream"],
     "cookingMethod": "1. Cook chicken with spices. 2. Make a creamy sauce with onion, cashews, and cream. 3. Combine.",
     "rating": 4.7
@@ -67,6 +75,7 @@
     "recipeID": "recipe9",
     "chefID": "chef3",
     "recipeName": "Paratha",
+    "recipeImg": "https://www.munatycooking.com/wp-content/uploads/2023/05/Lachha-Paratha-feature-image-2023.jpg",
     "ingredients": ["Flour", "Water", "Oil", "Salt"],
     "cookingMethod": "1. Mix flour, water, and salt. 2. Knead and rest dough. 3. Roll out, cook with oil.",
     "rating": 4.4
@@ -75,6 +84,7 @@
     "recipeID": "recipe10",
     "chefID": "chef4",
     "recipeName": "Pilaf",
+    "recipeImg": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/pilaf-collection-b1aaa51.jpg?quality=90&resize=556,505",
     "ingredients": ["Rice", "Chicken", "Spices", "Onion", "Saffron"],
     "cookingMethod": "1. Cook rice and chicken. 2. Layer with spices and saffron. 3. Steam to perfection.",
     "rating": 4.6
@@ -83,6 +93,7 @@
     "recipeID": "recipe11",
     "chefID": "chef4",
     "recipeName": "Beef Bhuna",
+    "recipeImg": "https://www.kitchensanctuary.com/wp-content/uploads/2021/05/Lamb-Bhuna-square-FS-11.jpg",
     "ingredients": ["Beef", "Spices", "Onion", "Tomato", "Ginger-Garlic Paste"],
     "cookingMethod": "1. Cook beef with spices. 2. Saute onion, tomato, and ginger-garlic paste. 3. Combine.",
     "rating": 4.4
@@ -91,6 +102,7 @@
     "recipeID": "recipe12",
     "chefID": "chef4",
     "recipeName": "Cucumber Raita",
+    "recipeImg": "https://www.indianveggiedelight.com/wp-content/uploads/2017/06/cucumber-raita-recipe-featured.jpg",
     "ingredients": ["Cucumber", "Yogurt", "Mint", "Spices", "Cumin"],
     "cookingMethod": "1. Grate cucumber. 2. Mix with yogurt, mint, spices, and cumin. 3. Chill.",
     "rating": 4.2
@@ -99,6 +111,7 @@
     "recipeID": "recipe13",
     "chefID": "chef5",
     "recipeName": "Shrimp Curry",
+    "recipeImg": "https://carlsbadcravings.com/wp-content/uploads/2022/09/coconut-shrimp-curry-recipe-2.jpg",
     "ingredients": [
       "Shrimp",
       "Spices",
@@ -113,6 +126,7 @@
     "recipeID": "recipe14",
     "chefID": "chef5",
     "recipeName": "Lentil Soup",
+    "recipeImg": "https://www.veggiessavetheday.com/wp-content/uploads/2022/07/Instant-Pot-Lentil-Soup-FI-1200.jpg",
     "ingredients": ["Lentils", "Spices", "Onion", "Tomato", "Turmeric"],
     "cookingMethod": "1. Boil lentils with spices and turmeric. 2. Saute onion, tomato. 3. Blend and combine.",
     "rating": 4.6
@@ -121,6 +135,7 @@
     "recipeID": "recipe15",
     "chefID": "chef5",
     "recipeName": "Naan",
+    "recipeImg": "https://www.budgetbytes.com/wp-content/uploads/2010/09/Homemade-Naan-stack-1.jpg",
     "ingredients": ["Flour", "Yogurt", "Yeast", "Salt", "Butter"],
     "cookingMethod": "1. Mix flour, yogurt, yeast, and salt. 2. Knead, rest, and shape. 3. Cook and brush with butter.",
     "ating": 4.3
